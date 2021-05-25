@@ -10,8 +10,8 @@
  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarif1430&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarif1430&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ganesh0211&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh0211&theme=gruvbox)
 
  
 
@@ -62,43 +62,43 @@
 
  
 
-<!-- YOUTUBE:START -->
-- [PI Approximation Animation](https://www.youtube.com/watch?v=z77q6ZqtNA0)
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START 
+- [PI Approximation Animation](https://www.youtube.com/watch?v=z77q6ZqtNA0)-->
+<!-- YOUTUBE:END 
 
  
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCfvNKCSgWbxvgSBXX1Yvorw?view_as=subscriber)
 
- 
+ -->
 
 ---
 
- 
+ <!-- BLOG-POST-LIST:START 
 
 ### 📕 Latest Blog Posts
 
  
 
-<!-- BLOG-POST-LIST:START -->
+
 - [Neural Networks: Building neural network from scratch](https://epoweriotatheta.netlify.app/blog/basics_of_neural_networks/)
 - [Calculating Value of Pi](https://epoweriotatheta.netlify.app/blog/approximate_pi/)
 - [Optical Character Recoginition](https://epoweriotatheta.netlify.app/blog/python_ocr/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END 
 
  
 
 ➡️ [more blog posts...](https://epoweriotatheta.netlify.app/)
 
- 
+ -->-->
 
 ---
 
  
 
 [website]: https://epoweriotatheta.netlify.app/
-[twitter]: https://twitter.com/MalikAarif1430
+[twitter]: https://twitter.com/ganeshis018
 [youtube]: https://www.youtube.com/channel/UCfvNKCSgWbxvgSBXX1Yvorw?view_as=subscriber
-[instagram]: https://www.instagram.com/aarifmalik1430/?hl=en
-[linkedin]: https://www.linkedin.com/in/maarif1430/
-[gruvbox]: https://github-readme-stats.vercel.app/api?username=Aarif1430&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
+[instagram]: https://www.instagram.com/ganesh.0211/?hl=en
+[linkedin]: https://www.linkedin.com/in/ganeshkt/
+[gruvbox]: https://github-readme-stats.vercel.app/api?username=ganesh0211&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
