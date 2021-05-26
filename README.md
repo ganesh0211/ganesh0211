@@ -96,7 +96,7 @@
 
  
 
-[website]: https://epoweriotatheta.netlify.app/
+[website]: https://dataview-ai.netlify.app/
 [twitter]: https://twitter.com/ganeshis018
 [youtube]: https://www.youtube.com/channel/UCfvNKCSgWbxvgSBXX1Yvorw?view_as=subscriber
 [instagram]: https://www.instagram.com/ganesh.0211/?hl=en
