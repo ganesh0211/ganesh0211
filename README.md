@@ -36,9 +36,9 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img onclick="#" src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-
+<img onclick="#" src="https://github.com/ganesh0211/geticon/blob/master/icons/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ganesh0211/geticon/blob/master/icons/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img onclick="#" src="https://github.com/ganesh0211/geticon/blob/master/icons/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
  
 
  <img src="https://github.com/ganesh0211/geticon/blob/master/icons/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
