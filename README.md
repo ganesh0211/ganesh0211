@@ -36,20 +36,19 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img onclick="#" src="https://github.com/ganesh0211/geticon/blob/master/icons/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/ganesh0211/geticon/blob/master/icons/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img onclick="#" src="https://github.com/ganesh0211/geticon/blob/master/icons/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
- 
+<img onclick="#" src="https://github.com/ganesh0211/geticon/blob/master/icons/python.svg" alt="Python" height="20" style="vertical-align:top; margin:4px">
+<img onclick="#" src="https://github.com/ganesh0211/geticon/blob/master/icons/java.svg" alt="Java" height="20" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ganesh0211/geticon/blob/master/icons/javascript.svg" alt="Javascript" height="20" style="vertical-align:top; margin:4px">
+<img src="https://github.com/ganesh0211/geticon/blob/master/icons/docker.svg" alt="docker" height="20" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/spring.svg" alt="spring" height="20" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/hibernate.svg" alt="hibernate" height="20" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/c-plusplus.svg" alt="cpluscplus" height="20" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/html-5.svg" alt="html" height="20" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/c.svg" alt="c" height="20" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/mysql.svg" alt="mysql" height="20" style="vertical-align:top; margin:4px">
 
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/hibernate.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/c-plusplus.svg" alt="cpluscplus" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/html-5.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/c.svg" alt="c" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/spring.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/ganesh0211/geticon/blob/master/icons/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/numpy-icon.svg" alt="Numpy" height="20" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/mongodb.svg" alt="mongodb" height="20" style="vertical-align:top; margin:4px">
 </p>
 
  
