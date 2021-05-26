@@ -41,15 +41,15 @@
 
  
 
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/nodejs.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/c-plusplus.svg" alt="cpluscplus" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/html-5.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/c.svg" alt="c" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/react.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/ganesh0211/geticon/master/logos/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/nodejs.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/c-plusplus.svg" alt="cpluscplus" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/html-5.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/c.svg" alt="c" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/react.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/ganesh0211/geticon/blob/master/icons/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
 </p>
 
  
