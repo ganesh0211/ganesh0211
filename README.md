@@ -2,7 +2,7 @@
 
  
 
-[![Website](https://img.shields.io/badge/cosmicdepth-coding-orange)](https://epoweriotatheta.netlify.app/)
+[![Website](https://img.shields.io/badge/cosmicdepth-coding-orange)](https://dataview-ai.netlify.app/)
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/ganeshkt/)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/ganesh0211)
 ![](https://visitor-badge.laobi.icu/badge?page_id=ganesh0211.ganesh0211)
