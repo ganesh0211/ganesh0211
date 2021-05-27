@@ -1,4 +1,4 @@
-### Hi there, Welcome to Ganesh's Git Profile👋
+### Hi there, Welcome to Ganesh's Git 👋
 
  
 
@@ -15,7 +15,7 @@
 
 ####  ➡️ TOGAF Certified Architect 
 [![TOFAG Certification Link](https://github.com/ganesh0211/geticon/blob/master/togaf.png)](https://www.credly.com/badges/3526f210-72ec-4162-9483-c48f77158c01/public_url)
-
+[![TOFAG Certification Link_2](https://github.com/ganesh0211/geticon/blob/master/togaf_1.png)](https://www.credly.com/badges/aea46d7c-fce5-41b3-8925-8972768a101d/public_url)
  
 
 ### Connect with me:
