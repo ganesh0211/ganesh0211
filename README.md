@@ -10,8 +10,8 @@
  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ganesh0211&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh0211&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ganesh0211&show_icons=true&theme=gruvbox&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh0211&count_private=true&theme=gruvbox)
 
 ####  ➡️ TOGAF Certified Architect 
 [![TOFAG Certification Link](https://github.com/ganesh0211/geticon/blob/master/togaf.png)](https://www.credly.com/badges/3526f210-72ec-4162-9483-c48f77158c01/public_url)
